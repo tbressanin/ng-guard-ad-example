@@ -1,0 +1,358 @@
+{
+    "sucesso": true,
+    "dados": {
+        "extrato": [
+            {
+                "sequencia": 50,
+                "data": "2019-02-07T17:53:10",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 5.2
+            },
+            {
+                "sequencia": 49,
+                "data": "2019-02-07T10:52:21",
+                "descricao": "Pão de queijo - 1 x - R$ 3.00",
+                "total": -3,
+                "saldo": 9
+            },
+            {
+                "sequencia": 48,
+                "data": "2019-02-06T17:42:33",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 12
+            },
+            {
+                "sequencia": 47,
+                "data": "2019-02-06T17:42:33",
+                "descricao": "Halls itera - 1 x - R$ 1.50",
+                "total": -1.5,
+                "saldo": 15.8
+            },
+            {
+                "sequencia": 46,
+                "data": "2019-02-06T16:52:25",
+                "descricao": "Esfihas (carne e calabresa) - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 17.3
+            },
+            {
+                "sequencia": 45,
+                "data": "2019-02-06T16:52:20",
+                "descricao": "Recarga efetuada com sucesso. #IteraBar",
+                "total": 20,
+                "saldo": 20.8
+            },
+            {
+                "sequencia": 44,
+                "data": "2019-02-06T13:13:44",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 0.8
+            },
+            {
+                "sequencia": 43,
+                "data": "2019-02-06T13:13:44",
+                "descricao": "Prestigio  - 1 x - R$ 2.00",
+                "total": -2,
+                "saldo": 4.6
+            },
+            {
+                "sequencia": 42,
+                "data": "2019-02-06T11:03:18",
+                "descricao": "Pão de queijo - 1 x - R$ 3.00",
+                "total": -3,
+                "saldo": 6.6
+            },
+            {
+                "sequencia": 41,
+                "data": "2019-02-05T13:18:45",
+                "descricao": "Prestigio  - 1 x - R$ 2.00",
+                "total": -2,
+                "saldo": 9.6
+            },
+            {
+                "sequencia": 40,
+                "data": "2019-02-05T13:18:45",
+                "descricao": "Halls itera - 1 x - R$ 1.50",
+                "total": -1.5,
+                "saldo": 11.6
+            },
+            {
+                "sequencia": 39,
+                "data": "2019-02-04T12:34:12",
+                "descricao": "Guaraná 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 13.1
+            },
+            {
+                "sequencia": 38,
+                "data": "2019-02-04T12:34:12",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 16.9
+            },
+            {
+                "sequencia": 37,
+                "data": "2019-02-04T12:34:12",
+                "descricao": "Misto Quente com Pão Francês - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 20.7
+            },
+            {
+                "sequencia": 36,
+                "data": "2019-02-04T12:33:20",
+                "descricao": "Recarga efetuada com sucesso. #IteraBar",
+                "total": 20,
+                "saldo": 24.2
+            },
+            {
+                "sequencia": 35,
+                "data": "2019-02-01T11:21:41",
+                "descricao": "Pão de queijo - 1 x - R$ 3.00",
+                "total": -3,
+                "saldo": 4.2
+            },
+            {
+                "sequencia": 34,
+                "data": "2019-01-30T13:36:01",
+                "descricao": "Croassant (4 queijos, mista, pizza, calabresa e chocolate) - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 7.2
+            },
+            {
+                "sequencia": 33,
+                "data": "2019-01-30T10:29:51",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 10.7
+            },
+            {
+                "sequencia": 32,
+                "data": "2019-01-30T10:29:51",
+                "descricao": "Croassant (4 queijos, mista, pizza, calabresa e chocolate) - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 14.5
+            },
+            {
+                "sequencia": 31,
+                "data": "2019-01-29T11:51:45",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 18
+            },
+            {
+                "sequencia": 30,
+                "data": "2019-01-29T11:51:45",
+                "descricao": "Pão de queijo - 1 x - R$ 3.00",
+                "total": -3,
+                "saldo": 21.8
+            },
+            {
+                "sequencia": 29,
+                "data": "2019-01-28T15:17:13",
+                "descricao": "Diamante negro  - 1 x - R$ 2.00",
+                "total": -2,
+                "saldo": 24.8
+            },
+            {
+                "sequencia": 28,
+                "data": "2019-01-28T15:17:13",
+                "descricao": "Halls itera - 1 x - R$ 1.50",
+                "total": -1.5,
+                "saldo": 26.8
+            },
+            {
+                "sequencia": 27,
+                "data": "2019-01-28T12:39:01",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 28.3
+            },
+            {
+                "sequencia": 26,
+                "data": "2019-01-28T12:38:45",
+                "descricao": "Recarga efetuada com sucesso. #IteraBar",
+                "total": 30,
+                "saldo": 32.1
+            },
+            {
+                "sequencia": 25,
+                "data": "2019-01-28T12:25:08",
+                "descricao": "Esfihas (carne e calabresa) - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 2.1
+            },
+            {
+                "sequencia": 24,
+                "data": "2019-01-24T12:28:45",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 5.6
+            },
+            {
+                "sequencia": 23,
+                "data": "2019-01-24T12:28:45",
+                "descricao": "Esfihas (carne e calabresa) - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 9.4
+            },
+            {
+                "sequencia": 22,
+                "data": "2019-01-23T17:05:42",
+                "descricao": "Misto Quente com Pão Francês - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 12.9
+            },
+            {
+                "sequencia": 21,
+                "data": "2019-01-23T15:04:21",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 16.4
+            },
+            {
+                "sequencia": 20,
+                "data": "2019-01-23T11:26:52",
+                "descricao": "Pão de queijo - 1 x - R$ 3.00",
+                "total": -3,
+                "saldo": 20.2
+            },
+            {
+                "sequencia": 19,
+                "data": "2019-01-22T12:14:54",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 23.2
+            },
+            {
+                "sequencia": 18,
+                "data": "2019-01-22T12:14:54",
+                "descricao": "Misto Quente com Pão Francês - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 27
+            },
+            {
+                "sequencia": 17,
+                "data": "2019-01-22T12:13:53",
+                "descricao": "Recarga efetuada com sucesso. #IteraBar",
+                "total": 30,
+                "saldo": 30.5
+            },
+            {
+                "sequencia": 16,
+                "data": "2019-01-18T11:26:14",
+                "descricao": "Pão de queijo - 1 x - R$ 3.00",
+                "total": -3,
+                "saldo": 0.5
+            },
+            {
+                "sequencia": 15,
+                "data": "2019-01-17T17:58:32",
+                "descricao": "Croassant (4 queijos, mista, pizza, calabresa e chocolate) - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 3.5
+            },
+            {
+                "sequencia": 14,
+                "data": "2019-01-17T14:51:52",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 7
+            },
+            {
+                "sequencia": 13,
+                "data": "2019-01-17T14:51:52",
+                "descricao": "Prestigio  - 1 x - R$ 2.00",
+                "total": -2,
+                "saldo": 10.8
+            },
+            {
+                "sequencia": 12,
+                "data": "2019-01-16T17:11:28",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 12.8
+            },
+            {
+                "sequencia": 11,
+                "data": "2019-01-16T13:57:53",
+                "descricao": "Prestigio  - 1 x - R$ 2.00",
+                "total": -2,
+                "saldo": 16.6
+            },
+            {
+                "sequencia": 10,
+                "data": "2019-01-16T13:57:53",
+                "descricao": "Halls itera - 1 x - R$ 1.50",
+                "total": -1.5,
+                "saldo": 18.6
+            },
+            {
+                "sequencia": 9,
+                "data": "2019-01-15T15:08:01",
+                "descricao": "Coca-Cola zero 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 20.1
+            },
+            {
+                "sequencia": 8,
+                "data": "2019-01-15T15:08:01",
+                "descricao": "Esfihas (carne e calabresa) - 1 x - R$ 3.50",
+                "total": -3.5,
+                "saldo": 23.9
+            },
+            {
+                "sequencia": 7,
+                "data": "2019-01-15T15:07:50",
+                "descricao": "Recarga efetuada com sucesso. #IteraBar",
+                "total": 20,
+                "saldo": 27.4
+            },
+            {
+                "sequencia": 6,
+                "data": "2019-01-15T10:53:01",
+                "descricao": "Pão de queijo - 1 x - R$ 3.00",
+                "total": -3,
+                "saldo": 7.4
+            },
+            {
+                "sequencia": 5,
+                "data": "2019-01-14T12:54:27",
+                "descricao": "Coca-Cola 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 10.4
+            },
+            {
+                "sequencia": 4,
+                "data": "2019-01-11T15:13:25",
+                "descricao": "Coca-Cola zero 350 ml  - 1 x - R$ 3.80",
+                "total": -3.8,
+                "saldo": 14.2
+            },
+            {
+                "sequencia": 3,
+                "data": "2019-01-10T16:34:49",
+                "descricao": "Hot Dog Simples - 1 x - R$ 1.00",
+                "total": -1,
+                "saldo": 18
+            },
+            {
+                "sequencia": 2,
+                "data": "2019-01-10T16:08:01",
+                "descricao": "Hot Dog Simples - 1 x - R$ 1.00",
+                "total": -1,
+                "saldo": 19
+            },
+            {
+                "sequencia": 1,
+                "data": "2019-01-10T15:10:00",
+                "descricao": "Recarga efetuada com sucesso. #IteraBar",
+                "total": 20,
+                "saldo": 20
+            }
+        ]
+    },
+    "notificacoes": []
+}

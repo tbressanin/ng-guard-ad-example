@@ -1,0 +1,45 @@
+.container {
+    position: absolute;
+    -webkit-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+    padding: 0px;
+    margin: 0 0 2% 0;
+    left: 50%;
+    right: 50%;
+    height: 80%;
+    width: 783px;
+}
+
+.content {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.mat-column-sequencia {
+    width: 100px;
+}
+
+.mat-column-data {
+    width: 160px;
+}
+
+.mat-column-descricao {
+    width: 320px;
+}
+
+.mat-column-total {
+    width: 80px;
+}
+
+.mat-column-saldo {
+    width: 60px;
+}
+
+.debit {
+    color: red
+}
+
+.credit {
+    color: rgb(0, 107, 247)
+}

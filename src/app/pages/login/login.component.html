@@ -1,0 +1,31 @@
+<div class="content">
+  <div class="container">
+    <!-- <img height="32px" width="177px" src="../../../assets/images/logoIterative.png"> -->
+    <h1 class="mat-headline">Login</h1>
+
+    <ng-container *ngIf="loading">
+      <div class="loader">
+        <i class="fas fa-circle-notch fa-spin fa-2x fa-fw"></i>
+      </div>
+    </ng-container>
+
+    <form *ngIf="cpfForm && !loading" [hidden]="loading" [formGroup]="form">
+      <mat-form-field appearance="outline">
+        <mat-label>Por favor informe o CPF</mat-label>
+        <input type="email" matInput placeholder="CPF" formControlName="cpf">
+        <mat-icon matSuffix>perm_identity</mat-icon>
+      </mat-form-field>
+      <div style="text-align: right;">
+        <button type="button" mat-raised-button color="primary" (click)="submit(true)"> Acessar </button>
+        <span class="spacer"></span>
+      </div>
+    </form>
+
+    <button *ngIf="!cpfForm && !loading" type="button" width="215px" mat-raised-button color="secondary"
+      matTooltip="Login com usuário @iterative.com.br" (click)="submit(false)">
+      <img height="22px" width="105px" src="../../../assets/images/ms-logo.png">
+    </button>
+    <!-- <img height="41px" width="215px" src="../../../assets/images/ms-symbollockup_signin_light.png"> -->
+
+  </div>
+</div>
